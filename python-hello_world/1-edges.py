@@ -3,6 +3,6 @@ word = "Holberton"
 word_first_3 = word[0:3]
 world_last_2 = word[-2:]
 middle_word = word[1:-1]
-print("First 3 letters: {:d}".format(word))
-print("Last 2 letters: {:d}".format(word))
-print("Middle word: {:d}".format(word))
+print("First 3 letters: {:d}".format(word_first_3))
+print("Last 2 letters: {:d}".format(word_last_2))
+print("Middle word: {:d}".format(middles_word))
